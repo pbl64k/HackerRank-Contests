@@ -1,0 +1,13 @@
+                         RANK  PRTCP    PERC%   SLVD    SCOR
+                         ===================================
+2014-02-07-FP               1     99    76.7%   3/ 3     230
+2014-02-15-2020           922   1740    23.1%   2/ 7      50
+2014-03-01-101             24    360    89.7%   3/ 5     125
+2014-03-21-FP               1      ?       ?    5/ 5     220
+2014-03-29-101             44    246    65.0%   2/ 5      70
+
+RANK: final rank on the leaderboard
+PRTCP: total number of participants according to the leaderboard
+PERC%: final placement percentile (done better than ...% of all participants)
+SLVD: problem solved (all tests) / total number of problems
+SCOR: raw final score on the leaderboard

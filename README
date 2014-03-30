@@ -8,6 +8,7 @@
 
 RANK: final rank on the leaderboard
 PRTCP: total number of participants according to the leaderboard
-PERC%: final placement percentile (done better than ...% of all participants)
-SLVD: problem solved (all tests) / total number of problems
+PERC%: final placement percentile
+       (done strictly better than ...% of all participants)
+SLVD: problems solved (all tests) / total number of problems
 SCOR: raw final score on the leaderboard

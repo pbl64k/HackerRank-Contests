@@ -1,0 +1,12 @@
+(defun expl (acc x)
+    (if (= 0 (length x))
+        (if (= 0 (length acc))
+            nil
+            (cons acc nil))
+        (if (equalp (subseq x 0 1) " ")
+            (cons acc (expl "" (subseq x 1 (length x))))
+            (expl (concatenate 'string acc (subseq x 0 1)) (subseq x 1 (length x))))))
+(defun explode (x) (expl "" x))
+(read-line)
+(princ (apply #'lcm (map 'list #'parse-integer (explode (read-line)))))
+(terpri)

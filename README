@@ -9,6 +9,8 @@
 2014-04-21-Weekly         486    799     8.5%   1/ 5      20
 2014-04-26-101             15    149    89.9%   4/ 5     220
 2014-05-05-Weekly          36    583    93.8%   1/ 5     205
+2014-05-16-FP             (*)    161    ----    5/ 5     330
+2014-05-19-Weekly          41?   719    94.2%?  4/ 5     289
 
 RANK: final rank on the leaderboard
 PRTCP: total number of participants according to the leaderboard
@@ -16,3 +18,7 @@ PERC%: final placement percentile
        (done strictly better than ...% of all participants)
 SLVD: problems solved (all tests) / total number of problems
 SCOR: raw final score on the leaderboard
+
+(*) I authored one of the problems for this contest - Down With
+    Abstractions - so I only participated unofficially.
+

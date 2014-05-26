@@ -3,7 +3,7 @@
 *.prof
 *.class
 test*.txt
-*.out
+a.out
 erl_crash.dump
 *.beam
 .*.swp

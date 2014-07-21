@@ -9,13 +9,15 @@
 2014-04-21-Weekly         486    799     8.5%   1/ 5      20
 2014-04-26-101             15    149    89.9%   4/ 5     220
 2014-05-05-Weekly          36    583    93.8%   1/ 5     205
-(*) 2014-05-16-FP         ---    161    ----    4/ 4     180
+(1) 2014-05-16-FP         ---    161    ----    4/ 4     180
 2014-05-19-Weekly          41    719    94.2%   4/ 5     289
 2014-05-31-101             95    381    74.5%   2/ 5      70
 2014-06-02-Weekly         381    798    51.0%   0/ 5      39
 2014-06-16-Weekly          81    951    88.0%   3/ 5     130
 2014-06-20-FP               6    201    94.0%   5/ 5     400
 2014-06-28-101             56    302    81.4%   2/ 5      79
+2014-07-14-Weekly         280   1154    69.6%   2/ 5      80
+(2) 2014-07-18-FP         ---    ???    ----    5/ 5     270
 
 RANK: final rank on the leaderboard
 PRTCP: total number of participants according to the leaderboard
@@ -24,8 +26,11 @@ PERC%: final placement percentile
 SLVD: problems solved (all tests) / total number of problems
 SCOR: raw final score on the leaderboard
 
-(*) I authored one of the problems for this contest - Down With
+(1) I authored one of the problems for this contest - Down With
     Abstractions - so I only participated unofficially.
+(2) I authored two of the problems for this contest - Messy
+    Medians and Elementary Watson - so I only participated
+    unofficially.
 
 Note that solutions which passed all the test cases are always
 marked with "accepted".

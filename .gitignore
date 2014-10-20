@@ -7,3 +7,4 @@ a.out
 erl_crash.dump
 *.beam
 .*.swp
+*.exe
